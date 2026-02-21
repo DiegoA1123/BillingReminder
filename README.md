@@ -73,7 +73,7 @@ Ejemplo documento:
 # Ejecutar Backend
 
 1. Abrir solución en Visual Studio
-2. Seleccionar BillingReminder.Api
+2. Seleccionar BillingReminder.Api y compilarlo
 3. Ejecutar (F5)
 
 ---
