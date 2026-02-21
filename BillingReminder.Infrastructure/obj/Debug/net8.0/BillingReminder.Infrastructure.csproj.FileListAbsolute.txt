@@ -1,0 +1,17 @@
+C:\Users\diego\Desktop\BillingReminder\BillingReminder.Infrastructure\obj\Debug\net8.0\BillingReminder.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\diego\Desktop\BillingReminder\BillingReminder.Infrastructure\obj\Debug\net8.0\BillingReminder.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\Desktop\BillingReminder\BillingReminder.Infrastructure\obj\Debug\net8.0\BillingReminder.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\diego\Desktop\BillingReminder\BillingReminder.Infrastructure\obj\Debug\net8.0\BillingReminder.Infrastructure.AssemblyInfo.cs
+C:\Users\diego\Desktop\BillingReminder\BillingReminder.Infrastructure\obj\Debug\net8.0\BillingReminder.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\BillingReminder\BillingReminder.Infrastructure\bin\Debug\net8.0\BillingReminder.Infrastructure.deps.json
+C:\Users\diego\Desktop\BillingReminder\BillingReminder.Infrastructure\bin\Debug\net8.0\BillingReminder.Infrastructure.dll
+C:\Users\diego\Desktop\BillingReminder\BillingReminder.Infrastructure\bin\Debug\net8.0\BillingReminder.Infrastructure.pdb
+C:\Users\diego\Desktop\BillingReminder\BillingReminder.Infrastructure\bin\Debug\net8.0\BillingReminder.Domain.dll
+C:\Users\diego\Desktop\BillingReminder\BillingReminder.Infrastructure\bin\Debug\net8.0\BillingReminder.Domain.pdb
+C:\Users\diego\Desktop\BillingReminder\BillingReminder.Infrastructure\obj\Debug\net8.0\BillingR.5C4E5A2A.Up2Date
+C:\Users\diego\Desktop\BillingReminder\BillingReminder.Infrastructure\obj\Debug\net8.0\BillingReminder.Infrastructure.dll
+C:\Users\diego\Desktop\BillingReminder\BillingReminder.Infrastructure\obj\Debug\net8.0\refint\BillingReminder.Infrastructure.dll
+C:\Users\diego\Desktop\BillingReminder\BillingReminder.Infrastructure\obj\Debug\net8.0\BillingReminder.Infrastructure.pdb
+C:\Users\diego\Desktop\BillingReminder\BillingReminder.Infrastructure\obj\Debug\net8.0\ref\BillingReminder.Infrastructure.dll
+C:\Users\diego\Desktop\BillingReminder\BillingReminder.Infrastructure\bin\Debug\net8.0\Email\Templates\first-reminder.html
+C:\Users\diego\Desktop\BillingReminder\BillingReminder.Infrastructure\bin\Debug\net8.0\Email\Templates\second-reminder.html

@@ -1,0 +1,12 @@
+C:\Users\diego\Desktop\BillingReminder\BillingReminder.Domain\bin\Debug\net8.0\BillingReminder.Domain.deps.json
+C:\Users\diego\Desktop\BillingReminder\BillingReminder.Domain\bin\Debug\net8.0\BillingReminder.Domain.dll
+C:\Users\diego\Desktop\BillingReminder\BillingReminder.Domain\bin\Debug\net8.0\BillingReminder.Domain.pdb
+C:\Users\diego\Desktop\BillingReminder\BillingReminder.Domain\obj\Debug\net8.0\BillingReminder.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\Desktop\BillingReminder\BillingReminder.Domain\obj\Debug\net8.0\BillingReminder.Domain.AssemblyInfoInputs.cache
+C:\Users\diego\Desktop\BillingReminder\BillingReminder.Domain\obj\Debug\net8.0\BillingReminder.Domain.AssemblyInfo.cs
+C:\Users\diego\Desktop\BillingReminder\BillingReminder.Domain\obj\Debug\net8.0\BillingReminder.Domain.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\BillingReminder\BillingReminder.Domain\obj\Debug\net8.0\BillingReminder.Domain.dll
+C:\Users\diego\Desktop\BillingReminder\BillingReminder.Domain\obj\Debug\net8.0\refint\BillingReminder.Domain.dll
+C:\Users\diego\Desktop\BillingReminder\BillingReminder.Domain\obj\Debug\net8.0\BillingReminder.Domain.pdb
+C:\Users\diego\Desktop\BillingReminder\BillingReminder.Domain\obj\Debug\net8.0\ref\BillingReminder.Domain.dll
+C:\Users\diego\Desktop\BillingReminder\BillingReminder.Domain\obj\Debug\net8.0\BillingReminder.Domain.csproj.AssemblyReference.cache
