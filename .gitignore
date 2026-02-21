@@ -2,3 +2,5 @@
 **/.vs/
 bin/
 obj/
+billing-reminder-ui/node_modules/
+billing-reminder-ui/package-lock.json
