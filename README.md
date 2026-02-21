@@ -80,9 +80,9 @@ Ejemplo documento:
 
 # Ejecutar Frontend
 
-cd billing-reminder-ui
-npm install
-ng serve -o
+1. cd billing-reminder-ui
+2. npm install (Version sugerida: 20.11.1)
+3. ng serve -o
 
 ---
 
